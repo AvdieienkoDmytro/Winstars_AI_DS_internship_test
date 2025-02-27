@@ -1,5 +1,9 @@
 # Winstars Task 1
 
+## Overview
+
+For this task, I implemented 3 models that achieved sufficient results. The RF model achieved 96-97% accuracy. NN got around 97%. And as expected, the best result came from CNN - 99%. For DNN and CNN, I drew a learning graph and noticed that the model overfits after 5-10 epochs. Before I added the Dropout layer, the model was overfitting after just 2 epochs. Therefore, 10 epochs are quite sufficient for this model.
+
 ## Project Structure
 ```
 task1/
