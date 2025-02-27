@@ -1,0 +1,1382 @@
+[
+  {
+    "id": "mantled_howler_1",
+    "text": "The mantled howler is known for its loud calls.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 18,
+        "label": "ANIMAL",
+        "species": "mantled howler"
+      }
+    ]
+  },
+  {
+    "id": "mantled_howler_2",
+    "text": "Scientists observed a group of mantled howler monkeys in Costa Rica.",
+    "entities": [
+      {
+        "start": 30,
+        "end": 44,
+        "label": "ANIMAL",
+        "species": "mantled howler"
+      }
+    ]
+  },
+  {
+    "id": "mantled_howler_3",
+    "text": "A mantled howler can be heard from several miles away.",
+    "entities": [
+      {
+        "start": 2,
+        "end": 16,
+        "label": "ANIMAL",
+        "species": "mantled howler"
+      }
+    ]
+  },
+  {
+    "id": "mantled_howler_4",
+    "text": "The jungle echoed with the calls of the mantled howler.",
+    "entities": [
+      {
+        "start": 39,
+        "end": 53,
+        "label": "ANIMAL",
+        "species": "mantled howler"
+      }
+    ]
+  },
+  {
+    "id": "mantled_howler_5",
+    "text": "We spotted a mantled howler in the canopy.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 26,
+        "label": "ANIMAL",
+        "species": "mantled howler"
+      }
+    ]
+  },
+  {
+    "id": "mantled_howler_6",
+    "text": "The mantled howler lives primarily in Central America.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 18,
+        "label": "ANIMAL",
+        "species": "mantled howler"
+      }
+    ]
+  },
+  {
+    "id": "mantled_howler_7",
+    "text": "Several mantled howler families inhabit this forest.",
+    "entities": [
+      {
+        "start": 8,
+        "end": 22,
+        "label": "ANIMAL",
+        "species": "mantled howler"
+      }
+    ]
+  },
+  {
+    "id": "mantled_howler_8",
+    "text": "Have you ever heard the distinctive call of a mantled howler?",
+    "entities": [
+      {
+        "start": 42,
+        "end": 56,
+        "label": "ANIMAL",
+        "species": "mantled howler"
+      }
+    ]
+  },
+  {
+    "id": "mantled_howler_9",
+    "text": "This isn't a capuchin, it's definitely a mantled howler based on its vocalizations.",
+    "entities": [
+      {
+        "start": 11,
+        "end": 19,
+        "label": "ANIMAL",
+        "species": "capuchin"
+      },
+      {
+        "start": 35,
+        "end": 49,
+        "label": "ANIMAL",
+        "species": "mantled howler"
+      }
+    ]
+  },
+  {
+    "id": "mantled_howler_10",
+    "text": "While studying primate communication, we focused on the mantled howler's unique acoustic properties.",
+    "entities": [
+      {
+        "start": 54,
+        "end": 68,
+        "label": "ANIMAL",
+        "species": "mantled howler"
+      }
+    ]
+  },
+  {
+    "id": "patas_monkey_1",
+    "text": "The patas monkey is known for its speed.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 16,
+        "label": "ANIMAL",
+        "species": "patas monkey"
+      }
+    ]
+  },
+  {
+    "id": "patas_monkey_2",
+    "text": "We observed several patas monkey groups in the savanna.",
+    "entities": [
+      {
+        "start": 18,
+        "end": 30,
+        "label": "ANIMAL",
+        "species": "patas monkey"
+      }
+    ]
+  },
+  {
+    "id": "patas_monkey_3",
+    "text": "The patas monkey can run extremely fast.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 16,
+        "label": "ANIMAL",
+        "species": "patas monkey"
+      }
+    ]
+  },
+  {
+    "id": "patas_monkey_4",
+    "text": "Researchers have documented patas monkey behavior extensively.",
+    "entities": [
+      {
+        "start": 25,
+        "end": 37,
+        "label": "ANIMAL",
+        "species": "patas monkey"
+      }
+    ]
+  },
+  {
+    "id": "patas_monkey_5",
+    "text": "A patas monkey was spotted near the water hole.",
+    "entities": [
+      {
+        "start": 2,
+        "end": 14,
+        "label": "ANIMAL",
+        "species": "patas monkey"
+      }
+    ]
+  },
+  {
+    "id": "patas_monkey_6",
+    "text": "The patas monkey has adapted to dry habitats.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 16,
+        "label": "ANIMAL",
+        "species": "patas monkey"
+      }
+    ]
+  },
+  {
+    "id": "patas_monkey_7",
+    "text": "Is that a patas monkey running across the field?",
+    "entities": [
+      {
+        "start": 10,
+        "end": 22,
+        "label": "ANIMAL",
+        "species": "patas monkey"
+      }
+    ]
+  },
+  {
+    "id": "patas_monkey_8",
+    "text": "African savannas are the perfect habitat for the patas monkey species.",
+    "entities": [
+      {
+        "start": 45,
+        "end": 57,
+        "label": "ANIMAL",
+        "species": "patas monkey"
+      }
+    ]
+  },
+  {
+    "id": "patas_monkey_9",
+    "text": "Unlike the slower primates, the patas monkey relies on speed to escape predators.",
+    "entities": [
+      {
+        "start": 30,
+        "end": 42,
+        "label": "ANIMAL",
+        "species": "patas monkey"
+      }
+    ]
+  },
+  {
+    "id": "patas_monkey_10",
+    "text": "The conservation status of the patas monkey is concerning due to habitat loss.",
+    "entities": [
+      {
+        "start": 29,
+        "end": 41,
+        "label": "ANIMAL",
+        "species": "patas monkey"
+      }
+    ]
+  },
+  {
+    "id": "bald_uakari_1",
+    "text": "The bald uakari has a distinctive red face.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 15,
+        "label": "ANIMAL",
+        "species": "bald uakari"
+      }
+    ]
+  },
+  {
+    "id": "bald_uakari_2",
+    "text": "Researchers tracked bald uakari movements in the Amazon.",
+    "entities": [
+      {
+        "start": 19,
+        "end": 30,
+        "label": "ANIMAL",
+        "species": "bald uakari"
+      }
+    ]
+  },
+  {
+    "id": "bald_uakari_3",
+    "text": "A group of bald uakari was spotted in the flooded forest.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "ANIMAL",
+        "species": "bald uakari"
+      }
+    ]
+  },
+  {
+    "id": "bald_uakari_4",
+    "text": "The bald uakari is endangered due to habitat loss.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 15,
+        "label": "ANIMAL",
+        "species": "bald uakari"
+      }
+    ]
+  },
+  {
+    "id": "bald_uakari_5",
+    "text": "Conservation efforts focus on protecting the bald uakari.",
+    "entities": [
+      {
+        "start": 42,
+        "end": 53,
+        "label": "ANIMAL",
+        "species": "bald uakari"
+      }
+    ]
+  },
+  {
+    "id": "bald_uakari_6",
+    "text": "Have you ever seen a bald uakari in the wild?",
+    "entities": [
+      {
+        "start": 19,
+        "end": 30,
+        "label": "ANIMAL",
+        "species": "bald uakari"
+      }
+    ]
+  },
+  {
+    "id": "bald_uakari_7",
+    "text": "The striking red face of the bald uakari is actually a sign of good health.",
+    "entities": [
+      {
+        "start": 28,
+        "end": 39,
+        "label": "ANIMAL",
+        "species": "bald uakari"
+      }
+    ]
+  },
+  {
+    "id": "bald_uakari_8",
+    "text": "During our expedition, we were fortunate to photograph a rare bald uakari.",
+    "entities": [
+      {
+        "start": 60,
+        "end": 71,
+        "label": "ANIMAL",
+        "species": "bald uakari"
+      }
+    ]
+  },
+  {
+    "id": "bald_uakari_9",
+    "text": "A pale face in a bald uakari may indicate disease or poor nutrition.",
+    "entities": [
+      {
+        "start": 17,
+        "end": 28,
+        "label": "ANIMAL",
+        "species": "bald uakari"
+      }
+    ]
+  },
+  {
+    "id": "bald_uakari_10",
+    "text": "Illegal hunting remains a threat to bald uakari populations in remote areas.",
+    "entities": [
+      {
+        "start": 31,
+        "end": 42,
+        "label": "ANIMAL",
+        "species": "bald uakari"
+      }
+    ]
+  },
+  {
+    "id": "japanese_macaque_1",
+    "text": "The japanese macaque is known for bathing in hot springs.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 21,
+        "label": "ANIMAL",
+        "species": "japanese macaque"
+      }
+    ]
+  },
+  {
+    "id": "japanese_macaque_2",
+    "text": "We observed japanese macaque groups in the mountains of Japan.",
+    "entities": [
+      {
+        "start": 13,
+        "end": 30,
+        "label": "ANIMAL",
+        "species": "japanese macaque"
+      }
+    ]
+  },
+  {
+    "id": "japanese_macaque_3",
+    "text": "A japanese macaque was seen carrying its baby through the snow.",
+    "entities": [
+      {
+        "start": 2,
+        "end": 19,
+        "label": "ANIMAL",
+        "species": "japanese macaque"
+      }
+    ]
+  },
+  {
+    "id": "japanese_macaque_4",
+    "text": "Researchers study japanese macaque tool use extensively.",
+    "entities": [
+      {
+        "start": 17,
+        "end": 34,
+        "label": "ANIMAL",
+        "species": "japanese macaque"
+      }
+    ]
+  },
+  {
+    "id": "japanese_macaque_5",
+    "text": "The japanese macaque has complex social structures.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 21,
+        "label": "ANIMAL",
+        "species": "japanese macaque"
+      }
+    ]
+  },
+  {
+    "id": "japanese_macaque_6",
+    "text": "Have you seen the famous photos of japanese macaque bathing in hot springs?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 50,
+        "label": "ANIMAL",
+        "species": "japanese macaque"
+      }
+    ]
+  },
+  {
+    "id": "japanese_macaque_7",
+    "text": "Cultural behaviors are passed down in japanese macaque communities through generations.",
+    "entities": [
+      {
+        "start": 36,
+        "end": 53,
+        "label": "ANIMAL",
+        "species": "japanese macaque"
+      }
+    ]
+  },
+  {
+    "id": "japanese_macaque_8",
+    "text": "The thick fur of the japanese macaque provides excellent insulation against cold.",
+    "entities": [
+      {
+        "start": 19,
+        "end": 36,
+        "label": "ANIMAL",
+        "species": "japanese macaque"
+      }
+    ]
+  },
+  {
+    "id": "japanese_macaque_9",
+    "text": "During winter, japanese macaque troops often gather around thermal springs.",
+    "entities": [
+      {
+        "start": 15,
+        "end": 32,
+        "label": "ANIMAL",
+        "species": "japanese macaque"
+      }
+    ]
+  },
+  {
+    "id": "japanese_macaque_10",
+    "text": "Some populations of japanese macaque have learned to wash their food in saltwater.",
+    "entities": [
+      {
+        "start": 20,
+        "end": 37,
+        "label": "ANIMAL",
+        "species": "japanese macaque"
+      }
+    ]
+  },
+  {
+    "id": "pygmy_marmoset_1",
+    "text": "The pygmy marmoset is one of the smallest primates.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 18,
+        "label": "ANIMAL",
+        "species": "pygmy marmoset"
+      }
+    ]
+  },
+  {
+    "id": "pygmy_marmoset_2",
+    "text": "We spotted a pygmy marmoset in the Amazon rainforest.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 26,
+        "label": "ANIMAL",
+        "species": "pygmy marmoset"
+      }
+    ]
+  },
+  {
+    "id": "pygmy_marmoset_3",
+    "text": "A family of pygmy marmoset lives in that tree.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 26,
+        "label": "ANIMAL",
+        "species": "pygmy marmoset"
+      }
+    ]
+  },
+  {
+    "id": "pygmy_marmoset_4",
+    "text": "The pygmy marmoset is known for its tiny size.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 18,
+        "label": "ANIMAL",
+        "species": "pygmy marmoset"
+      }
+    ]
+  },
+  {
+    "id": "pygmy_marmoset_5",
+    "text": "Researchers track pygmy marmoset populations carefully.",
+    "entities": [
+      {
+        "start": 17,
+        "end": 31,
+        "label": "ANIMAL",
+        "species": "pygmy marmoset"
+      }
+    ]
+  },
+  {
+    "id": "pygmy_marmoset_6",
+    "text": "Did you know a pygmy marmoset can fit in the palm of your hand?",
+    "entities": [
+      {
+        "start": 13,
+        "end": 27,
+        "label": "ANIMAL",
+        "species": "pygmy marmoset"
+      }
+    ]
+  },
+  {
+    "id": "pygmy_marmoset_7",
+    "text": "The tiny pygmy marmoset feeds primarily on tree sap and gum.",
+    "entities": [
+      {
+        "start": 9,
+        "end": 23,
+        "label": "ANIMAL",
+        "species": "pygmy marmoset"
+      }
+    ]
+  },
+  {
+    "id": "pygmy_marmoset_8",
+    "text": "With specialized teeth, the pygmy marmoset can create holes in tree bark to access sap.",
+    "entities": [
+      {
+        "start": 28,
+        "end": 42,
+        "label": "ANIMAL",
+        "species": "pygmy marmoset"
+      }
+    ]
+  },
+  {
+    "id": "pygmy_marmoset_9",
+    "text": "The ultrasonic vocalizations of the pygmy marmoset are difficult for humans to hear.",
+    "entities": [
+      {
+        "start": 36,
+        "end": 50,
+        "label": "ANIMAL",
+        "species": "pygmy marmoset"
+      }
+    ]
+  },
+  {
+    "id": "pygmy_marmoset_10",
+    "text": "Female pygmy marmoset usually give birth to twins, which is unusual for such a small primate.",
+    "entities": [
+      {
+        "start": 7,
+        "end": 21,
+        "label": "ANIMAL",
+        "species": "pygmy marmoset"
+      }
+    ]
+  },
+  {
+    "id": "white_headed_capuchin_1",
+    "text": "The white headed capuchin is known for its intelligence.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 26,
+        "label": "ANIMAL",
+        "species": "white headed capuchin"
+      }
+    ]
+  },
+  {
+    "id": "white_headed_capuchin_2",
+    "text": "We observed a white headed capuchin using tools in Costa Rica.",
+    "entities": [
+      {
+        "start": 13,
+        "end": 35,
+        "label": "ANIMAL",
+        "species": "white headed capuchin"
+      }
+    ]
+  },
+  {
+    "id": "white_headed_capuchin_3",
+    "text": "A group of white headed capuchin monkeys was foraging nearby.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 34,
+        "label": "ANIMAL",
+        "species": "white headed capuchin"
+      }
+    ]
+  },
+  {
+    "id": "white_headed_capuchin_4",
+    "text": "The white headed capuchin has complex social structures.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 26,
+        "label": "ANIMAL",
+        "species": "white headed capuchin"
+      }
+    ]
+  },
+  {
+    "id": "white_headed_capuchin_5",
+    "text": "Researchers document white headed capuchin tool use.",
+    "entities": [
+      {
+        "start": 20,
+        "end": 42,
+        "label": "ANIMAL",
+        "species": "white headed capuchin"
+      }
+    ]
+  },
+  {
+    "id": "white_headed_capuchin_6",
+    "text": "Can you believe that white headed capuchin can use stones as hammers?",
+    "entities": [
+      {
+        "start": 19,
+        "end": 41,
+        "label": "ANIMAL",
+        "species": "white headed capuchin"
+      }
+    ]
+  },
+  {
+    "id": "white_headed_capuchin_7",
+    "text": "The distinctive black and white pattern of the white headed capuchin makes it easy to identify.",
+    "entities": [
+      {
+        "start": 45,
+        "end": 67,
+        "label": "ANIMAL",
+        "species": "white headed capuchin"
+      }
+    ]
+  },
+  {
+    "id": "white_headed_capuchin_8",
+    "text": "In some areas, white headed capuchin populations have learned to coexist with humans.",
+    "entities": [
+      {
+        "start": 14,
+        "end": 36,
+        "label": "ANIMAL",
+        "species": "white headed capuchin"
+      }
+    ]
+  },
+  {
+    "id": "white_headed_capuchin_9",
+    "text": "The alpha male in a white headed capuchin troop maintains order through various behaviors.",
+    "entities": [
+      {
+        "start": 18,
+        "end": 40,
+        "label": "ANIMAL",
+        "species": "white headed capuchin"
+      }
+    ]
+  },
+  {
+    "id": "white_headed_capuchin_10",
+    "text": "Examples of tool use by white headed capuchin include using leaves as cups and sticks as probes.",
+    "entities": [
+      {
+        "start": 22,
+        "end": 44,
+        "label": "ANIMAL",
+        "species": "white headed capuchin"
+      }
+    ]
+  },
+  {
+    "id": "silvery_marmoset_1",
+    "text": "The silvery marmoset has distinctive silver fur.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 20,
+        "label": "ANIMAL",
+        "species": "silvery marmoset"
+      }
+    ]
+  },
+  {
+    "id": "silvery_marmoset_2",
+    "text": "We spotted a silvery marmoset in the Brazilian forest.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 28,
+        "label": "ANIMAL",
+        "species": "silvery marmoset"
+      }
+    ]
+  },
+  {
+    "id": "silvery_marmoset_3",
+    "text": "A family of silvery marmoset was moving through the trees.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 28,
+        "label": "ANIMAL",
+        "species": "silvery marmoset"
+      }
+    ]
+  },
+  {
+    "id": "silvery_marmoset_4",
+    "text": "The silvery marmoset diet consists primarily of tree sap.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 20,
+        "label": "ANIMAL",
+        "species": "silvery marmoset"
+      }
+    ]
+  },
+  {
+    "id": "silvery_marmoset_5",
+    "text": "Researchers track silvery marmoset populations in fragmented habitats.",
+    "entities": [
+      {
+        "start": 17,
+        "end": 33,
+        "label": "ANIMAL",
+        "species": "silvery marmoset"
+      }
+    ]
+  },
+  {
+    "id": "silvery_marmoset_6",
+    "text": "Have you noticed how the silvery marmoset's fur shimmers in sunlight?",
+    "entities": [
+      {
+        "start": 21,
+        "end": 37,
+        "label": "ANIMAL",
+        "species": "silvery marmoset"
+      }
+    ]
+  },
+  {
+    "id": "silvery_marmoset_7",
+    "text": "The complex vocalizations of the silvery marmoset serve different social functions.",
+    "entities": [
+      {
+        "start": 32,
+        "end": 48,
+        "label": "ANIMAL",
+        "species": "silvery marmoset"
+      }
+    ]
+  },
+  {
+    "id": "silvery_marmoset_8",
+    "text": "In captivity, a silvery marmoset can live up to 16 years.",
+    "entities": [
+      {
+        "start": 15,
+        "end": 31,
+        "label": "ANIMAL",
+        "species": "silvery marmoset"
+      }
+    ]
+  },
+  {
+    "id": "silvery_marmoset_9",
+    "text": "Deforestation poses a significant threat to silvery marmoset habitat.",
+    "entities": [
+      {
+        "start": 41,
+        "end": 57,
+        "label": "ANIMAL",
+        "species": "silvery marmoset"
+      }
+    ]
+  },
+  {
+    "id": "silvery_marmoset_10",
+    "text": "The silvery marmoset's specialized claws allow it to cling to vertical tree trunks.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 20,
+        "label": "ANIMAL",
+        "species": "silvery marmoset"
+      }
+    ]
+  },
+  {
+    "id": "common_squirrel_monkey_1",
+    "text": "The common squirrel monkey is highly active.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 26,
+        "label": "ANIMAL",
+        "species": "common squirrel monkey"
+      }
+    ]
+  },
+  {
+    "id": "common_squirrel_monkey_2",
+    "text": "We observed common squirrel monkey groups in the Amazon.",
+    "entities": [
+      {
+        "start": 13,
+        "end": 35,
+        "label": "ANIMAL",
+        "species": "common squirrel monkey"
+      }
+    ]
+  },
+  {
+    "id": "common_squirrel_monkey_3",
+    "text": "A troop of common squirrel monkey was feeding in the canopy.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 34,
+        "label": "ANIMAL",
+        "species": "common squirrel monkey"
+      }
+    ]
+  },
+  {
+    "id": "common_squirrel_monkey_4",
+    "text": "The common squirrel monkey has a distinctive black and white face.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 26,
+        "label": "ANIMAL",
+        "species": "common squirrel monkey"
+      }
+    ]
+  },
+  {
+    "id": "common_squirrel_monkey_5",
+    "text": "Researchers study common squirrel monkey intelligence.",
+    "entities": [
+      {
+        "start": 17,
+        "end": 39,
+        "label": "ANIMAL",
+        "species": "common squirrel monkey"
+      }
+    ]
+  },
+  {
+    "id": "common_squirrel_monkey_6",
+    "text": "Did you know that common squirrel monkey troops can include over 100 individuals?",
+    "entities": [
+      {
+        "start": 18,
+        "end": 40,
+        "label": "ANIMAL",
+        "species": "common squirrel monkey"
+      }
+    ]
+  },
+  {
+    "id": "common_squirrel_monkey_7",
+    "text": "The agile movements of the common squirrel monkey make it fascinating to watch.",
+    "entities": [
+      {
+        "start": 25,
+        "end": 47,
+        "label": "ANIMAL",
+        "species": "common squirrel monkey"
+      }
+    ]
+  },
+  {
+    "id": "common_squirrel_monkey_8",
+    "text": "Habitat fragmentation is a major threat to common squirrel monkey populations.",
+    "entities": [
+      {
+        "start": 43,
+        "end": 65,
+        "label": "ANIMAL",
+        "species": "common squirrel monkey"
+      }
+    ]
+  },
+  {
+    "id": "common_squirrel_monkey_9",
+    "text": "The common squirrel monkey's diet is primarily composed of fruits and insects.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 26,
+        "label": "ANIMAL",
+        "species": "common squirrel monkey"
+      }
+    ]
+  },
+  {
+    "id": "common_squirrel_monkey_10",
+    "text": "Female common squirrel monkey care for their young collectively in some populations.",
+    "entities": [
+      {
+        "start": 7,
+        "end": 29,
+        "label": "ANIMAL",
+        "species": "common squirrel monkey"
+      }
+    ]
+  },
+  {
+    "id": "black_headed_night_monkey_1",
+    "text": "The black headed night monkey is nocturnal.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 29,
+        "label": "ANIMAL",
+        "species": "black headed night monkey"
+      }
+    ]
+  },
+  {
+    "id": "black_headed_night_monkey_2",
+    "text": "We spotted a black headed night monkey after sunset.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 37,
+        "label": "ANIMAL",
+        "species": "black headed night monkey"
+      }
+    ]
+  },
+  {
+    "id": "black_headed_night_monkey_3",
+    "text": "A family of black headed night monkey was emerging from their nest.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 37,
+        "label": "ANIMAL",
+        "species": "black headed night monkey"
+      }
+    ]
+  },
+  {
+    "id": "black_headed_night_monkey_4",
+    "text": "The black headed night monkey has large eyes for night vision.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 29,
+        "label": "ANIMAL",
+        "species": "black headed night monkey"
+      }
+    ]
+  },
+  {
+    "id": "black_headed_night_monkey_5",
+    "text": "Researchers track black headed night monkey activity patterns.",
+    "entities": [
+      {
+        "start": 17,
+        "end": 42,
+        "label": "ANIMAL",
+        "species": "black headed night monkey"
+      }
+    ]
+  },
+  {
+    "id": "black_headed_night_monkey_6",
+    "text": "Have you ever tried to spot a black headed night monkey in the wild after dark?",
+    "entities": [
+      {
+        "start": 28,
+        "end": 53,
+        "label": "ANIMAL",
+        "species": "black headed night monkey"
+      }
+    ]
+  },
+  {
+    "id": "black_headed_night_monkey_7",
+    "text": "Unlike other monkeys, the black headed night monkey lives in monogamous family groups.",
+    "entities": [
+      {
+        "start": 24,
+        "end": 49,
+        "label": "ANIMAL",
+        "species": "black headed night monkey"
+      }
+    ]
+  },
+  {
+    "id": "black_headed_night_monkey_8",
+    "text": "The black headed night monkey's specialized retina allows it to see in near darkness.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 29,
+        "label": "ANIMAL",
+        "species": "black headed night monkey"
+      }
+    ]
+  },
+  {
+    "id": "black_headed_night_monkey_9",
+    "text": "Both parents share in raising the young in black headed night monkey families.",
+    "entities": [
+      {
+        "start": 39,
+        "end": 64,
+        "label": "ANIMAL",
+        "species": "black headed night monkey"
+      }
+    ]
+  },
+  {
+    "id": "black_headed_night_monkey_10",
+    "text": "Researchers use infrared cameras to study black headed night monkey behavior.",
+    "entities": [
+      {
+        "start": 39,
+        "end": 64,
+        "label": "ANIMAL",
+        "species": "black headed night monkey"
+      }
+    ]
+  },
+  {
+    "id": "nilgiri_langur_1",
+    "text": "The nilgiri langur is endemic to southern India.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 18,
+        "label": "ANIMAL",
+        "species": "nilgiri langur"
+      }
+    ]
+  },
+  {
+    "id": "nilgiri_langur_2",
+    "text": "We observed a nilgiri langur in the Western Ghats.",
+    "entities": [
+      {
+        "start": 13,
+        "end": 27,
+        "label": "ANIMAL",
+        "species": "nilgiri langur"
+      }
+    ]
+  },
+  {
+    "id": "nilgiri_langur_3",
+    "text": "A group of nilgiri langur was resting in the trees.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 26,
+        "label": "ANIMAL",
+        "species": "nilgiri langur"
+      }
+    ]
+  },
+  {
+    "id": "nilgiri_langur_4",
+    "text": "The nilgiri langur has a glossy black coat.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 18,
+        "label": "ANIMAL",
+        "species": "nilgiri langur"
+      }
+    ]
+  },
+  {
+    "id": "nilgiri_langur_5",
+    "text": "Researchers monitor nilgiri langur populations due to conservation concerns.",
+    "entities": [
+      {
+        "start": 20,
+        "end": 34,
+        "label": "ANIMAL",
+        "species": "nilgiri langur"
+      }
+    ]
+  },
+  {
+    "id": "nilgiri_langur_6",
+    "text": "Have you heard the distinctive calls of the nilgiri langur in the forest?",
+    "entities": [
+      {
+        "start": 39,
+        "end": 53,
+        "label": "ANIMAL",
+        "species": "nilgiri langur"
+      }
+    ]
+  },
+  {
+    "id": "nilgiri_langur_7",
+    "text": "The endangered nilgiri langur faces threats from habitat fragmentation and hunting.",
+    "entities": [
+      {
+        "start": 15,
+        "end": 29,
+        "label": "ANIMAL",
+        "species": "nilgiri langur"
+      }
+    ]
+  },
+  {
+    "id": "nilgiri_langur_8",
+    "text": "Efforts to create protected corridors are helping nilgiri langur populations recover.",
+    "entities": [
+      {
+        "start": 46,
+        "end": 60,
+        "label": "ANIMAL",
+        "species": "nilgiri langur"
+      }
+    ]
+  },
+  {
+    "id": "nilgiri_langur_9",
+    "text": "The nilgiri langur's diet consists primarily of leaves from native trees.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 18,
+        "label": "ANIMAL",
+        "species": "nilgiri langur"
+      }
+    ]
+  },
+  {
+    "id": "nilgiri_langur_10",
+    "text": "Local legends in southern India often feature the nilgiri langur as a spiritual symbol.",
+    "entities": [
+      {
+        "start": 47,
+        "end": 61,
+        "label": "ANIMAL",
+        "species": "nilgiri langur"
+      }
+    ]
+  },
+  {
+    "id": "multi_species_1",
+    "text": "While the japanese macaque prefers cold environments, the pygmy marmoset thrives in tropical forests.",
+    "entities": [
+      {
+        "start": 10,
+        "end": 27,
+        "label": "ANIMAL",
+        "species": "japanese macaque"
+      },
+      {
+        "start": 54,
+        "end": 68,
+        "label": "ANIMAL",
+        "species": "pygmy marmoset"
+      }
+    ]
+  },
+  {
+    "id": "multi_species_2",
+    "text": "The researcher compared the vocalizations of mantled howler with those of the black headed night monkey.",
+    "entities": [
+      {
+        "start": 42,
+        "end": 56,
+        "label": "ANIMAL",
+        "species": "mantled howler"
+      },
+      {
+        "start": 76,
+        "end": 101,
+        "label": "ANIMAL",
+        "species": "black headed night monkey"
+      }
+    ]
+  },
+  {
+    "id": "multi_species_3",
+    "text": "Unlike the solitary bald uakari, the common squirrel monkey lives in large social groups.",
+    "entities": [
+      {
+        "start": 18,
+        "end": 29,
+        "label": "ANIMAL",
+        "species": "bald uakari"
+      },
+      {
+        "start": 35,
+        "end": 57,
+        "label": "ANIMAL",
+        "species": "common squirrel monkey"
+      }
+    ]
+  },
+  {
+    "id": "multi_species_4",
+    "text": "The conservation program focuses on both the nilgiri langur and the white headed capuchin.",
+    "entities": [
+      {
+        "start": 39,
+        "end": 53,
+        "label": "ANIMAL",
+        "species": "nilgiri langur"
+      },
+      {
+        "start": 62,
+        "end": 84,
+        "label": "ANIMAL",
+        "species": "white headed capuchin"
+      }
+    ]
+  },
+  {
+    "id": "multi_species_5",
+    "text": "While the silvery marmoset is known for its silver fur, the patas monkey is recognized for its speed.",
+    "entities": [
+      {
+        "start": 10,
+        "end": 26,
+        "label": "ANIMAL",
+        "species": "silvery marmoset"
+      },
+      {
+        "start": 59,
+        "end": 71,
+        "label": "ANIMAL",
+        "species": "patas monkey"
+      }
+    ]
+  },
+  {
+    "id": "question_1",
+    "text": "Is that a white headed capuchin or a silvery marmoset in the tree?",
+    "entities": [
+      {
+        "start": 10,
+        "end": 32,
+        "label": "ANIMAL",
+        "species": "white headed capuchin"
+      },
+      {
+        "start": 38,
+        "end": 54,
+        "label": "ANIMAL",
+        "species": "silvery marmoset"
+      }
+    ]
+  },
+  {
+    "id": "question_2",
+    "text": "Can the pygmy marmoset and japanese macaque be found in the same habitat?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 22,
+        "label": "ANIMAL",
+        "species": "pygmy marmoset"
+      },
+      {
+        "start": 27,
+        "end": 44,
+        "label": "ANIMAL",
+        "species": "japanese macaque"
+      }
+    ]
+  },
+  {
+    "id": "negative_1",
+    "text": "This is not a bald uakari, based on its coloration and facial features.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "ANIMAL",
+        "species": "bald uakari"
+      }
+    ]
+  },
+  {
+    "id": "negative_2",
+    "text": "The animal in the photo couldn't possibly be a mantled howler or a nilgiri langur.",
+    "entities": [
+      {
+        "start": 43,
+        "end": 57,
+        "label": "ANIMAL",
+        "species": "mantled howler"
+      },
+      {
+        "start": 63,
+        "end": 77,
+        "label": "ANIMAL",
+        "species": "nilgiri langur"
+      }
+    ]
+  },
+  {
+    "id": "complex_1",
+    "text": "While studying primate behavior in Brazil, we documented how the black headed night monkey's nocturnal habits differ from the common squirrel monkey's diurnal patterns.",
+    "entities": [
+      {
+        "start": 60,
+        "end": 85,
+        "label": "ANIMAL",
+        "species": "black headed night monkey"
+      },
+      {
+        "start": 118,
+        "end": 140,
+        "label": "ANIMAL",
+        "species": "common squirrel monkey"
+      }
+    ]
+  }
+  ]
